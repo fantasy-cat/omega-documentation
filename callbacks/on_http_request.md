@@ -27,6 +27,12 @@ end
 ## Methods
 
 <!-- TOC -->
+* [on_http_request](#on_http_request)
+  * [Description](#description)
+  * [Parameters](#parameters)
+  * [Returns](#returns)
+  * [Example](#example)
+  * [Methods](#methods)
   * [```/lua```](#lua)
   * [```/sessions```](#sessions)
   * [```/configuration```](#configuration)

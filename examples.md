@@ -3,6 +3,7 @@
 There are over 50 scripts available. For privacy reasons and out of respect for the community authors, more advanced and detailed scripts are not listed on this page. Verified members can access all script source codes.
 
 <!-- TOC -->
+* [examples](#examples)
   * [humanizer_logs.lua](#humanizer_logslua)
   * [head_dot.lua](#head_dotlua)
   * [demoman.lua](#demomanlua)
